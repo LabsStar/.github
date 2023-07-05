@@ -24,7 +24,7 @@ If you're interested in contributing to our open source projects or exploring th
 
 Feel free to reach out to us if you have any questions, ideas, or suggestions. You can connect with us through the following channels:
 
-- Email: [contact@hyperstar.cloud](mailto:contact@hyperstar.cloud)
+- Email: [admin@hyperstar.cloud](mailto:admin@hyperstar.cloud)
 - Discord: [HyperStar](https://discord.gg/ssCu7TYD4T)
 
 Thank you for your interest in Hyper Star! Together, let's create amazing open source software, embrace the world of Vtubing, and bring captivating content to life.
